@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @volkancnr
 - 👀 I’m interested in software
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on .. 
-- - 📫 How to reach me volkancinar58@gmail.com
+- 🌱 I’m currently learning Data Science, ML  
+-  📫 How to reach me volkancinar58@gmail.com
 
 <!---
 volkancnr/volkancnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
